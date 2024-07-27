@@ -10,5 +10,11 @@ register & validate use (jwt-decode & formik &yup)
 login #libraries -react-router-dom -bootstrap -formik -yup -axios -react-toastify
 jwt-decode
 react-query -get categories and caching data using useQuery
+
 https://github.com/LamaSaad24/Ecommerce_React_Lshop.git
+
 https://react-project1-f0wu.onrender.com/products
+
+https://github.com/LamaSaad24/componentLifeCycle_React.git
+https://github.com/LamaSaad24/reactProject-crud.git
+https://github.com/LamaSaad24/landing-page.git
