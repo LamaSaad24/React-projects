@@ -2,4 +2,13 @@
 https://x-swn0.onrender.com/restaurant/onion
 
 #project2
+##features
+single page application using react-router-dom
+make web and dashboard
+web pages
+register & validate use (jwt-decode & formik &yup)
+login #libraries -react-router-dom -bootstrap -formik -yup -axios -react-toastify
+jwt-decode
+react-query -get categories and caching data using useQuery
+https://github.com/LamaSaad24/Ecommerce_React_Lshop.git
 https://react-project1-f0wu.onrender.com/products
